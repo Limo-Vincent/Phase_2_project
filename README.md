@@ -54,7 +54,7 @@ The second dataset is the Box Office Mojo and has the following columns:
 ![Top Studios](Images/top_studio.png)
 
 ## Interactive Dashboard
-![Dashboard](Images/box_office.PNG)
+![Dashboard](Images/Box_office.PNG)
 Click to view the dashboard: [Film Insight Dashboard](https://public.tableau.com/views/FilmInsightsDashboard/Boxoffice?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # Conclusion
