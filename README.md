@@ -27,21 +27,21 @@ By analyzing the movie datasets this project aims to uncover patterns that highl
 The data used in this project comes from two popular film industry sources: `IMDb` and `Box Office Mojo`.
 
 The primary dataset is based on IMDb movie records, containing fields such as:
- - `movie_id`
- - `primary_title`
- - `original_title`
- - `start_year` 
- - `genres`
- - `runtime_minutes`
- - `average_rating`
- - `numvotes`
+ - `movie_id`          -     Unique identifier assigned to each film.
+ - `primary_title`     -     The main title of the film.
+ - `original_title`- The title of the film in its original language.
+ - `start_year`- The year the film was first released.
+ - `genres`- The category or type of film.
+ - `runtime_minutes`- The total duration of the film in minutes.
+ - `average_rating`- The mean user rating for the film.
+ - `numvotes`- The total number of user votes.
 
 The second dataset is the Box Office Mojo and has the following columns:
- - `title`
- - `studio`
- - `domestic_gross`
- - `foreign_gross`
- - `year`
+ - `title`- The name of the film.
+ - `studio`- The production company behind the film.
+ - `domestic_gross`- Total box office revenue the film earned within the domestic market.
+ - `foreign_gross`- Total box office revenue the film earned internationally.
+ - `year`- The year the film was released.
 
  #### Key Visualizations
     1. Genre Trends over the years  - Shows top produced movies over the years
