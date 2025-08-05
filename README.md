@@ -67,14 +67,15 @@ Short films and factual content like Documentaries and News receive the highest 
 There is a strong positive correlation (0.79) between domestic and international revenue, meaning successful local films often perform well globally.
 
 ## Repository Structure
- -  `Data` folder     -   Raw datasets
- - `Images` folder    -   Visuals and tableau dashboard 
- - `Presentation pdf` -   Project presentation 
- - ` student.ipynb`  -   Jupyter notebook 
- - ` README.md`       -    Project overview and navigation
- -  `.gitignore`      -    Lists large/sensitive files to exclude from Git
- - `clean_data.xlsb`       -    clean data after cleaning
-
+ - [`Clean_Data Folder`](https://github.com/Limo-Vincent/Phase_2_project/tree/main/Clean_Data) -  Cleaned data.
+ -  [`Data Folder`](https://github.com/Limo-Vincent/Phase_2_project/tree/main/Data)      -   Raw datasets
+ - [`Images folder`](https://github.com/Limo-Vincent/Phase_2_project/tree/main/Images)    -   Visuals and tableau dashboard
+ -  [`.gitignore`](https://github.com/Limo-Vincent/Phase_2_project/blob/main/.gitignore)      -    Lists large/sensitive files to exclude from Git 
+ - [`Jupyter_notebook pdf`](https://github.com/Limo-Vincent/Phase_2_project/blob/main/Jupyter_Notebook.pdf) -   Student ipynb notebook 
+ - [`Presentation pdf`](https://github.com/Limo-Vincent/Phase_2_project/blob/main/Presentation.pdf)  - Powerpoint slides 
+ - [`README.md`](https://github.com/Limo-Vincent/Phase_2_project/blob/main/README.md)       -    Project overview and navigation
+ - [`student.ipynb`](https://github.com/Limo-Vincent/Phase_2_project/blob/main/student.ipynb)  -   Jupyter notebook
+ 
 
 
 ## Technologies Used
