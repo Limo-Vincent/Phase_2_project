@@ -53,6 +53,10 @@ The second dataset is the Box Office Mojo and has the following columns:
     3. Top Competitors by revenue  - Shows top studios with domestic and global reach.
 ![Top Studios](Images/top_studio.png)
 
+## Interactive Dashboard
+![Dashboard](Images/box_office.PNG)
+Click to view the dashboard: [Film Insight Dashboard](https://public.tableau.com/views/FilmInsightsDashboard/Boxoffice?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 # Conclusion
 This analysis reveals key trends in film production and performance:
 
@@ -61,3 +65,21 @@ Drama, Documentary, and Comedy are the most frequently produced genres, showing 
 Short films and factual content like Documentaries and News receive the highest average ratings, suggesting viewers value concise and informative content.
 
 There is a strong positive correlation (0.79) between domestic and international revenue, meaning successful local films often perform well globally.
+
+## Repository Structure
+ -  `Data` folder     -   Raw datasets
+ - `Images` folder    -   Visuals and tableau dashboard 
+ - `Presentation pdf` -   Project presentation 
+ - ` student.ipynb`  -   Jupyter notebook 
+ - ` README.md`       -    Project overview and navigation
+ -  `.gitignore`      -    Lists large/sensitive files to exclude from Git
+ - `clean_data.xlsb`       -    clean data after cleaning
+
+
+
+## Technologies Used
+- Python (`pandas`, `matplotlib`, `seaborn`)
+- Jupyter notebook
+- Tableau Public
+- Git & GitHub
+
